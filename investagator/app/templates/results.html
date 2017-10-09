@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+<div id="content">
+
+{% if results %}
+
+<h4>Results</h4>
+	<p>{{ results["hits"]["total"] }} results ({{results["took"]}}ms)</p>
+
+<div id="container" class="row">
+
+{% for doc in results["hits"]["hits"] %}
+
+	<p><label>URL:</label> {{doc["_source"]["url"]}}</p>
+	<p><label>Phone Number:</label> {{doc["_source"]["phone_number"]}}</p>
+	<p><label>City, State:</label> {{doc["_source"]["city"]}}, {{doc["_source"]["state"]}}</p>
+	<p><label>Timestamp:</label> {{doc["_source"]["timestamp"]}}</p>
+	<img src='{{ url_for("static", filename="images/"+doc["_source"]["file"]) }}' />
+
+	
+
+{% endfor %}
+</div>
+{% endif %}
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+Changing the world with Data.
+     (Combatting Human Trafficking, As An Example)
+
+
+
+                  By Eric Schles
+About Me
+Background:
+
+    Economics, Mathematics, Computer Science
+
+Work History:
+
+    Manhattan DAs special victims unit - "real life" Law & Order SVU
+    White House as Part of the United States Digital Service
+    18F
+    Elucd.com ~ current
+It starts with a feeling
+Decide on an issue you feel you have to work on,
+
+for me this was ending slavery.
+Finding your people
+You can't solve anything on your own.
+
+You need a group of people with you.
+
+We have power in numbers and to keep
+
+The work from burning any one person out.
+Build a thing
+
+
+
+      Demo (craigslist scraper)
+                 &&
+                Results
+Find people effected by the issue you care about
+Get their feedback and iterate
+
+on your system with them in mind.
+Take your thing on the road
+Once I iterated I actually was able to
+
+Build a system that helped people
+
+
+DEMO
+(Investigator)
+Stay connected with those across the country
+Once you build a system that really works
+
+It's easy to make more
+
+
+DEMO
+(Document Search)
+See the change in the world
+Eventually, with enough effort you will get results, but it takes long term effort.
+
+With the combined efforts of many people across the country, the cause to end slavery
+has:
+
+     Been able to put the CEO of backpage behind bars, sending a strong signal that
+     trafficking has costs
+     Been able to lift some victims out of slavery and find a better life
+Some resources
+https://www.fightforthefuture.org/ateams/
+
+--start your own idea and get it funded!
+
+https://tech-forward-2.glitch.me/
+
+---volunteer your time with one of these wonderful orgs
+
+https://lists.44.digital/
+
+--or one of these wonderful orgs
+
+https://flipboard.com/@flipboard/-nonprofits-not-silicon-valley-startups-/f-cde264c75a%2Frecode.net
+
+--AI non-profits
+Contact Me
+eric@elucd.com
+
+Twitter - @EricSchles
+
+Linkedin - https://www.linkedin.com/in/ericschles
+
+Github: https://www.github.com/EricSchles
+
